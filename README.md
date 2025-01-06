@@ -1,6 +1,6 @@
-# Flexbox Pricing Table
+# 🏷️ Flexbox Pricing Table
 
-🏷️ A simple and responsive pricing table built with HTML and CSS using Flexbox.
+A simple and responsive pricing table built with HTML and CSS using Flexbox.
 
 ## 🚀 Features
 
